@@ -1,0 +1,8 @@
+package com.example.myapplication
+
+data class Student(
+    val id: String,
+    val name: String,
+    val email: String,
+    val course: String
+)
